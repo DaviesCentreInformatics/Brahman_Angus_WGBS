@@ -1,0 +1,1 @@
+minimap -x map-hifi -a Ref_chromosome.fa query_chromosome_CpGs.fa | samtools sort | samtools view -b > Query_chromosome_CpGs_mapped2_Ref_chromosome.bam
