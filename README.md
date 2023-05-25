@@ -3,7 +3,7 @@
 
 Much of the code contained in the repo is based on tutorials and examples from the various tools used. Feel free to refer to those for additional information.
 
-- Code to map WGBS reads to reference genome is [here]<ADD LINK once Pheonix is accessible again>
+- Code to map WGBS reads to reference genome is [here]<ADD LINK once Phoenix is accessible again>
 
 - Code to convert `MethylDackel` output into `DNMTools` input is [here](./code/methylDackel2DNMtools.ipynb)
 
@@ -16,6 +16,8 @@ Much of the code contained in the repo is based on tutorials and examples from t
 - Code to identify DMRs between groups is [here](./code/DMR/aligned2Angus/) and [here](./code/DMR/aligned2Brahman/)
   
 - Code to identify DEGs is [here](./code/idDEGs.r)
+
+- Code to determine SNP and SV enrichment is [here](./code/enrichment.ipynb)
 
 - Bed files containing the shared and breed-specific CpGs are here:
 >- [Brahman.breed-specific](CpGs/Brahman.Breed.Specific.CpGs.bed)
