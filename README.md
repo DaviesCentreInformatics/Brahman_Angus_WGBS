@@ -3,7 +3,7 @@
 
 Much of the code contained in the repo is based on tutorials and examples from the various tools used. Feel free to refer to those for additional information.
 
-- Code to map WGBS reads to reference genome is [here]<ADD LINK once Phoenix is accessible again>
+- Code to map WGBS reads to reference genome is [here](https://github.com/DaviesCentreInformatics/Brahman_Angus_WGBS/blob/main/code/main.nf)
 
 - Code to convert `MethylDackel` output into `DNMTools` input is [here](./code/methylDackel2DNMtools.ipynb)
 
