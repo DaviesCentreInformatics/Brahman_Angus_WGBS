@@ -7,6 +7,8 @@ Much of the code contained in the repo is based on tutorials and examples from t
 
 - Code to convert `MethylDackel` output into `DNMTools` input is [here](./code/methylDackel2DNMtools.ipynb)
 
+- Code to artificially mutate fasta file is [here](./code/mutateFasta.sh)
+
 - Code to extract 1002bp CpG windows is [here](./code/createCpGFasta.ipynb).
 
 - Code to map CpGs to reference is [here](./code/minimap2_align.sh)
