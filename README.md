@@ -15,7 +15,7 @@ Much of the code contained in the repo is based on tutorials and examples from t
 
 - Code to identify DMRs between groups is [here](./code/DMR/aligned2Angus/) and [here](./code/DMR/aligned2Brahman/)
   
-- Code to identify DEGs is [here](./code/idDEGs.r)
+- Revised code to identify DEGs is [here](./code/revised_DEGs.R)
 
 - Code to determine SNP and SV enrichment is [here](./code/enrichment.ipynb)
 
