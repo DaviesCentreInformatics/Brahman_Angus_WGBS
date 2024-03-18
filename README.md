@@ -15,6 +15,8 @@ Much of the code contained in the repo is based on tutorials and examples from t
 
 - Code to filter alignments from CpG mapping is [here](./code/filterBam.py)
 
+- Code to determine reference impact on methylation is [here](.code/methylation_ref_impact.ipynb)
+
 - Code to identify DMRs between groups is [here](./code/DMR/aligned2Angus/) and [here](./code/DMR/aligned2Brahman/)
   
 - Revised code to identify DEGs is [here](./code/revised_DEGs.R)
