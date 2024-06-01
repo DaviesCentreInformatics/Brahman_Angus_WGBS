@@ -28,3 +28,5 @@ do
 	bedtools intersect -a filtered_Angus_100kb_windows_w_Brahman_coords.bed -b ${sample}_angus_brahman_coord_methto_bed_100kb.bed -loj > ${sample}_cpg_methylation_mapped_to_brahman.bed
 done
 ```
+
+Finally, use the code in `code/performTest.ipynb` to determine significant DMRs.
