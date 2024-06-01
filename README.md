@@ -23,6 +23,8 @@ Much of the code contained in the repo is based on tutorials and examples from t
 
 - Revised code to determine SNP and SV enrichment is [here](./code/enrichment.ipynb)
 
+- Markdown file outlining steps taken to identify DMRs between references for the same group of samples is [here](./code/findComparableRegions.md)
+
 - Bed files containing the shared and breed-specific CpGs are here:
 >- [Brahman.breed-specific](CpGs/Brahman.Breed.Specific.CpGs.bed)
 >- [Brahman.shared](./CpGs/Brahman_shared/)
