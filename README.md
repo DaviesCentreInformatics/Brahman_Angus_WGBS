@@ -21,7 +21,7 @@ Much of the code contained in the repo is based on tutorials and examples from t
   
 - Revised code to identify DEGs is [here](./code/revised_DEGs.R)
 
-- Code to determine SNP and SV enrichment is [here](./code/enrichment.ipynb)
+- Revised code to determine SNP and SV enrichment is [here](./code/enrichment.ipynb)
 
 - Bed files containing the shared and breed-specific CpGs are here:
 >- [Brahman.breed-specific](CpGs/Brahman.Breed.Specific.CpGs.bed)
